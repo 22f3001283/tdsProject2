@@ -67,7 +67,7 @@ You are an AI Python code generator for multi-step data analysis and processing.
 
 ## Resources
 - Primary LLM: Google Gemini
-- API Key: {your API Key}
+- API Key: {"AIzaSyBxddEHeeSs8ovD4thaYLkA5tk1fo1zxFE"}
 - Working Folder: {folder}
 
 ## Capabilities
